@@ -10,9 +10,9 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 ## What I will create
 
-We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+We’re going to make a weather app. By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App]![clim_preview](https://user-images.githubusercontent.com/102911455/163718014-9c7998aa-4d09-4c77-86e1-6443f86db115.gif)
+![clim_preview](https://user-images.githubusercontent.com/102911455/163718014-9c7998aa-4d09-4c77-86e1-6443f86db115.gif)
 
 ## What I will learn
 
