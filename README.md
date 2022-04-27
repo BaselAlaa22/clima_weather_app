@@ -10,7 +10,8 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 ## What I created
 
-![clim_preview](https://user-images.githubusercontent.com/102911455/163718014-9c7998aa-4d09-4c77-86e1-6443f86db115.gif)
+![clim_preview]![ezgif-3-0f841f554e](https://user-images.githubusercontent.com/102911455/165423444-4251930c-e343-41f0-a86c-04dda9cf3154.gif)
+
 
 ## What I learned
 
